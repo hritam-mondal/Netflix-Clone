@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+This application is deployed to Firebase Hosting. Please check it out 😄 [here](https://netflix-f69c3.web.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
