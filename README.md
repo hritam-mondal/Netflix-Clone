@@ -1,6 +1,6 @@
 # Netflix Clone
 
-A Simplified front end clone of Netflix.
+A Simplified front end clone of Netflix.<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
